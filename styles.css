@@ -1,0 +1,109 @@
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  height: 100%;
+}
+
+.a .container {
+  justify-content: flex-end;
+}
+
+.a .home {
+  margin-right: auto;
+}
+
+/* .b .container > div {
+  flex: 1;
+} */
+
+.b .container > .about {
+  flex: 2;
+}
+
+.c .container > :not(.about) {
+  flex: 1;
+}
+
+.d {
+  height: 100px;
+}
+
+.d .container {
+  align-items: center;
+  justify-content: center;
+}
+
+.d .home {
+  align-self: flex-end;
+}
+
+.d .contact {
+  align-self: flex-start;
+}
+
+.e {
+  height: 250px;
+}
+
+.e .container {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.f .container {
+  flex-wrap: wrap;
+}
+
+.f .container > div {
+  width: 300px;
+}
+
+.g .home {
+  /* flex-grow flex-shrink flex-basis */
+  /* flex-grow = grow rate */
+  /* flex-shrink = shrink rate */
+  /* flex-basis = base size */
+  flex: 1 1 400px;
+}
+
+.g .about {
+  flex: 10 10 400px;
+}
+
+.h .item1 {
+  order: 1;
+}
+.h .item2 {
+  order: 0;
+}
+.h .item3 {
+  order: -1;
+}
+
+.i li {
+  font-size: 4rem;
+  background-color: #96ceb4!important;
+}
+
+.i .search {
+  flex: 1;
+}
+
+@media all and (max-width: 880px) {
+  .i .container {
+    flex-wrap: wrap;
+  }
+  .i .container > li {
+    flex: 1 1 50%;
+  }
+}
+
+@media all and (max-width: 560px) {
+  .i .container > li {
+    flex: 1 1 100%;
+  }
+  .i .search {
+    order: 1;
+  }
+}
