@@ -21,7 +21,8 @@
 - [x] Decide layouts
 - [x] Recording once, without preparation
 - [x] Watch and write steps
-- [ ] Take screenshot of end result and add it to each README, and/or create a PDF
+- [x] Take screenshot of end result
+- [ ] Write README, and/or create a PDF with instructions and images
 - [ ] Do video following steps
 - [ ] Make repo with TODOs
 - [ ] Publish video with link to repo
