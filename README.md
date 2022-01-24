@@ -24,9 +24,13 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - [x] Recording once, without preparation
 - [x] Watch and write steps
 - [x] Take screenshot of end result
-- [ ] Write README, and/or create a PDF with instructions and images
-- [ ] Reread and clean up TODOs
+- [x] Write READMEs
+- [x] Reread and clean up TODOs
+- [ ] Add completed files to each exercise
+- [ ] Add further levels to each exercise
 - [ ] Reread and clean up READMEs
+- [ ] Create a PDF with instructions and images
+- [ ] Add instructions to use this if it was downloaded as zip
 - [ ] Do video following steps
 - [ ] Make repo with TODOs
 - [ ] Publish video with link to repo

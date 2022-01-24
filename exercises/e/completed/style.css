@@ -1,0 +1,14 @@
+.container {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item1 {
+  align-self: flex-end;
+}
+
+.item3 {
+  align-self: flex-start;
+}

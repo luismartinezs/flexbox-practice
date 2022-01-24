@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.item1 {
+  flex: 1;
+}
+
+.item3 {
+  flex: 1;
+}

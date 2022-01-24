@@ -6,7 +6,7 @@
   Children will be displayed in a row, that's because by default flexboxes are displayed in rows.
   */
 
-  /* TODO 2: use the justify-content property to center its children.
+  /* TODO 2: use the justify-content property to center its children: "justify-content: center;"
 
   Justify-content positions the children elements inside the flexbox along the "main axis".
 

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.item1 {
+  flex: 1 1 500px;
+}
+
+.item2 {
+  flex: 10 10 500px;
+}
