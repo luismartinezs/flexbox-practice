@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+/* .item1, .item3 {
+  flex: 1;
+} */
+
+.container > :not(.item2) {
+  flex: 1;
+}
