@@ -1,0 +1,22 @@
+.container {
+  /* TODO 1 turn this element into a flexbox with "display: flex;"
+
+  Children will be displayed in a row, that's because by default flexboxes are displayed in rows.
+  */
+
+  /* TODO 2 use the justify-content property to center its children.
+
+  Justify-content positions the children elements inside the flexbox along the "main axis".
+
+  Common values:
+    center (center elements)
+    flex-start (position elements at the start / left side)
+    flex-end (position elements at the end / right side)
+
+  The main axis is the horizontal axis, by default.
+
+  Read more about justify-content: https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+  Read more about the flexbox main axis: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox#the_main_axis
+  */
+}

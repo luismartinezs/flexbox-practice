@@ -1,0 +1,14 @@
+.container {
+  /* TODO 1 turn this element into a flexbox with "display: flex;" */
+}
+
+.item2 {
+  /* TODO 2 Use the flex property to make item 2 fill as much space as possible, with "flex: 1;"
+
+  Giving an element the style "flex: 1;" is like telling the flexbox: "take all the space available and fill it with this item"
+
+  The other items remain only as big as their content, by default
+
+  You'll learn more about the flex property later
+  */
+}

@@ -1,0 +1,42 @@
+.container {
+  height: 300px;
+  /* TODO 1 turn this element into a flexbox with "display: flex;"
+
+  As expected, elements stretch along the cross axis, since that is the default behavior
+
+  */
+
+  /* TODO 2 Set the flex direction to be a column, with "flex-direction: column;"
+
+  By default, the value is "row".
+
+  Notice:
+
+  1/ Elements are arranged in a column
+  2/ Elements are stretched horizontally
+
+  Remember about the main axis and the cross axis? With "flex-direction: column;", now the main axis is in the vertical direction, and the cross axis is in the horizontal direction
+
+  --------- MAIN AXIS      CROSS AXIS
+  ROW      HORIZONTAL       VERTICAL
+  COLUMN    VERTICAL       HORIZONTAL
+
+  */
+
+  /* TODO 3 Center elements vertically
+
+  Before you've used "align-items: center;" for this, but now we inverted these axis, so you need to use "justify-content: center;"
+
+  The justify-content property controls the positioning along the MAIN AXIS
+  */
+
+  /* TODO 4 Position elements to the right side
+
+  Since we changed the direction of the flexbox to be a column, you need to use "align-items: flex-end;"
+
+  the align-items property controls the positioning along the CROSS AXIS
+
+  JUSTIFY-CONTENT --> MAIN AXIS
+  ALIGN-ITEMS --> CROSS AXIS
+  */
+}

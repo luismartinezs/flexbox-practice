@@ -19,8 +19,9 @@
 ## Steps
 
 - [x] Decide layouts
-- [ ] Recording once, without preparation
-- [ ] Watch and write steps
+- [x] Recording once, without preparation
+- [x] Watch and write steps
+- [ ] Take screenshot of end result and add it to each README, and/or create a PDF
 - [ ] Do video following steps
 - [ ] Make repo with TODOs
 - [ ] Publish video with link to repo
