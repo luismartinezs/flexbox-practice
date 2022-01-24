@@ -1,34 +1,44 @@
 .container {
   height: 300px;
-  /* TODO 1 turn this element into a flexbox with "display: flex;"
+
+  /* TODO 1: turn this element into a flexbox with "display: flex;"
 
   Because we've set the height to a value larger than the children, you'll see the elements stretched vertically. This is the default behavior of a flexbox.
 
   Here, the vertical direction is the direction of the "cross axis".
 
   Remember the main axis? The cross axis is perpendicular to the main axis.
+
+  You can learn more about the cross axis here: https://developer.mozilla.org/en-US/docs/Glossary/Cross_Axis
   */
-  display: flex;
-  /* TODO 2 Center the children with "justify-content: center;"
+
+  /* TODO 2: Center the children with "justify-content: center;"
   Now the items will be still stretched but centered along the main axis
   */
-  /* TODO 3 Center the children vertically with "align-items: center;"
+
+  /* TODO 3: Center the children vertically with "align-items: center;"
 
   Align-items is similar to justify-content, but along the cross axis.
 
   By default, align-items has a value of "normal", and this stretches the items. A value of "stretch" does the same.
 
   If we set align-items to center, flex-start or flex-end, the items are no longer stretched and we can arrange them along the cross axis
+
+  More about the aling-items property: https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
   */
 }
 
 .item1 {
-  /* TODO 4 Position item 1 all the way downward with "align-self: flex-end;"
+  /* TODO 4: Position item 1 all the way downward with "align-self: flex-end;"
+
+  align-self is similar to align-items, but acting on one specific flexbox child
 
   We can control the position of individual items in the cross-axis direction with align-self. Some of the values it can take: stretch, center, flex-start and flex-end
+
+  More about the align-self property: https://developer.mozilla.org/en-US/docs/Web/CSS/align-self
   */
 }
 
 .item3 {
-  /* TODO 4 Position item 3 all the way to the top with "align-self: flex-start;" */
+  /* TODO 4: Position item 3 all the way to the top with "align-self: flex-start;" */
 }

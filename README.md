@@ -1,5 +1,7 @@
 # Flexbox grind
 
+Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
+
 ## Levels:
 
 - 1 = all line by line TODOs
@@ -23,6 +25,8 @@
 - [x] Watch and write steps
 - [x] Take screenshot of end result
 - [ ] Write README, and/or create a PDF with instructions and images
+- [ ] Reread and clean up TODOs
+- [ ] Reread and clean up READMEs
 - [ ] Do video following steps
 - [ ] Make repo with TODOs
 - [ ] Publish video with link to repo

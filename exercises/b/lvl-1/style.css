@@ -1,22 +1,22 @@
 .container {
-  /* TODO 1 turn this element into a flexbox with "display: flex;" */
+  /* TODO 1: turn this element into a flexbox with "display: flex;" */
 }
 
 .item1 {
-  /* TODO 2 Use the margin-right property to position the first element all the way to the left, and the other two all the way to the right.
+  /* TODO 2: Use the margin-right property to position the first element all the way to the left, and the other two all the way to the right.
 
-  If we use "margin-right: auto;" on one of the children, it will leave as much empty space as possible to the right of this element. Anything to the left of it will be pushed to the left, anything to the right of it will be pushed to the right.
+  If we use "margin-right: auto;" on one of the children, it will leave as much empty space as possible to the right of this element. Anything to the left of it will be pushed to the left, anything to the right of it, including itself, will be pushed to the right.
 
   Like so:
 
   [ item1 item2 item3 item4 ---------- ]
 
-  And after adding "margin-right: auto;" to item2, we get:
+  And after adding "margin-right: auto;" to item1, we get:
 
-  [ item1 item2 ---------- item3 item4 ]
+  [ item1 ---------- item2 item3 item4 ]
 
   Try it.
 
-  It works similarly for "margin-left: auto;"
+  "margin-left: auto;" works similarly
   */
 }

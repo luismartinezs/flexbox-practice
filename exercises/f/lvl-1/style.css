@@ -1,12 +1,12 @@
 .container {
   height: 300px;
-  /* TODO 1 turn this element into a flexbox with "display: flex;"
+  /* TODO 1: turn this element into a flexbox with "display: flex;"
 
   As expected, elements stretch along the cross axis, since that is the default behavior
 
   */
 
-  /* TODO 2 Set the flex direction to be a column, with "flex-direction: column;"
+  /* TODO 2: Set the flex direction to be a column, with "flex-direction: column;"
 
   By default, the value is "row".
 
@@ -21,16 +21,20 @@
   ROW      HORIZONTAL       VERTICAL
   COLUMN    VERTICAL       HORIZONTAL
 
+  Give a quick look at these two links:
+  https://developer.mozilla.org/en-US/docs/Glossary/Main_Axis
+  https://developer.mozilla.org/en-US/docs/Glossary/Cross_Axis
+
   */
 
-  /* TODO 3 Center elements vertically
+  /* TODO 3: Center elements vertically
 
   Before you've used "align-items: center;" for this, but now we inverted these axis, so you need to use "justify-content: center;"
 
   The justify-content property controls the positioning along the MAIN AXIS
   */
 
-  /* TODO 4 Position elements to the right side
+  /* TODO 4: Position elements to the right side
 
   Since we changed the direction of the flexbox to be a column, you need to use "align-items: flex-end;"
 

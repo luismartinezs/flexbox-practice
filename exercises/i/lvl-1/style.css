@@ -1,9 +1,9 @@
 .container {
-  /* TODO 1 turn this element into a flexbox with "display: flex;" */
+  /* TODO 1: turn this element into a flexbox with "display: flex;" */
 }
 
 .item1 {
-  /* TODO 3 Make item 1 be the last
+  /* TODO 3: Make item 1 be the last
 
   You could do this with "order: 1;"
 
@@ -11,20 +11,20 @@
 }
 
 .item2 {
-  /* TODO 4 item 2 will stay in the middle. There's nothing to do here. You could set "order: 0;" to be explicit about it, if you want.
+  /* TODO 4: item 2 will stay in the middle. There's nothing to do here. You could set "order: 0;" (which is the default value) to be explicit about it, if you want.
 
   Notice that you could have used values 1, 2 and 3 for the order property, there's nothing special about -1, 0 and 1.
   */
 }
 
 .item3 {
-  /* TODO 2 Make item 3 be the first one (the one on the left)
+  /* TODO 2: Make item 3 be the first one (the one on the left)
 
   You can do this with the order property.
 
-  It takes a number, which can also be negative. The number defines the order. As you might expect, the smaller it is, before it shows up.
+  It takes a number, which can be negative, zero or positive. The number defines the order. As you might expect, smaller shows first.
 
-  The default value of order is 0.
+  The default value of the order property is 0.
 
   So if you set here "order: -1;", item 3 will show up first.
   */

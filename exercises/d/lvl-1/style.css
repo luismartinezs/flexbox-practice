@@ -1,9 +1,9 @@
 .container {
-  /* TODO 1 turn this element into a flexbox with "display: flex;" */
+  /* TODO 1: turn this element into a flexbox with "display: flex;" */
 }
 
 .item1 {
-  /* TODO 2 Make items 1 and 3 fill as much space as possible, while item 2 stays the same.
+  /* TODO 2: Make items 1 and 3 fill as much space as possible, while item 2 stays the same.
 
   You can assign "flex: 1;" to multiple children.
 
@@ -12,5 +12,5 @@
 }
 
 .item3 {
-  /* TODO 3 Here also use "flex: 1;" */
+  /* TODO 3: Here also use "flex: 1;" */
 }

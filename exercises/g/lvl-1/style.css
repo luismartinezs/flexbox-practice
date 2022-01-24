@@ -1,14 +1,16 @@
 .container {
-  /* TODO 1 turn this element into a flexbox with "display: flex;"
+  /* TODO 1: turn this element into a flexbox with "display: flex;"
 
   Because we gave the children a minimum width, for narrow screens they oveflow and look bad
   */
 
-  /* TODO 2 If elements don't fit the current row, make them go to the next row (wrap them)
+  /* TODO 2: If elements don't fit the current row, make them go to the next row (wrap them)
 
   For this you need to use "flex-wrap: wrap;"
 
   flex-wrap by default has a value of "nowrap"
+
+  You can read more about flex-wrap if you want: https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
   */
 }
 

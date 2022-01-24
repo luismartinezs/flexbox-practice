@@ -1,17 +1,20 @@
 .container {
-  /* TODO 1 turn this element into a flexbox with "display: flex;"
+  /* TODO 1: Flexboxes are used to create layouts with items in one dimension (either rows or columns)
+
+  Turn this element into a flexbox with "display: flex;"
 
   Children will be displayed in a row, that's because by default flexboxes are displayed in rows.
   */
 
-  /* TODO 2 use the justify-content property to center its children.
+  /* TODO 2: use the justify-content property to center its children.
 
   Justify-content positions the children elements inside the flexbox along the "main axis".
 
-  Common values:
-    center (center elements)
-    flex-start (position elements at the start / left side)
-    flex-end (position elements at the end / right side)
+  Usual values of justify-content are:
+    center (center children)
+    flex-start (position children at the start / left side)
+    flex-end (position children at the end / right side)
+    space-between (position children leaving space in between them)
 
   The main axis is the horizontal axis, by default.
 
