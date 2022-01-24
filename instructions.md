@@ -21,3 +21,7 @@ Another idea is that of ever-increasing difficulty. Every exercise has levels of
 5. To view an exercise in the browser, you can just open the `index.html` file in a browser window. I recommend you install the extension [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). If you do, just right click the `index.html` file and select `Open with Live server`.
 6. You completed an exercise if your solution looks like the one in the `README.md`
 7. Beyond level 1, you'll be less hand-held. Progress to the top!
+
+## Rules
+
+- Don't move to the next level if you couldn't complete your current level without looking at the solution. It's about you learning, not about beating this.

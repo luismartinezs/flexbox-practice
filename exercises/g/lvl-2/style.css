@@ -1,0 +1,9 @@
+.container {
+  /* TODO 1: Turn this element into a flexbox */
+
+  /* TODO 2: When elements don't fit because the window is too narrow, they should move to the next row */
+}
+
+.container > div {
+  min-width: 300px;
+}

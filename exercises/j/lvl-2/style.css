@@ -1,0 +1,26 @@
+.container {
+  font-size: 2rem;
+  /* TODO 1: Turn this element into a flexbox */
+}
+
+.item3 {
+  /* TODO 2: Make item 3 fill as much space as possible, all other elements stay as they are */
+}
+
+@media all and (max-width: 900px) {
+  .container {
+    /* TODO 3: For widths smaller than 900px, let the items wrap to the next row */
+  }
+  .container > li {
+    /* TODO 4: Show two children per row, each filling half of the width of the flexbox */
+  }
+}
+
+@media all and (max-width: 560px) {
+  .container > li {
+    /* TODO 5: For very narrow screens (< 560px), let's have one element per row. */
+  }
+  .item3 {
+    /* TODO 6: Re-order the item 3 to be shown last */
+  }
+}

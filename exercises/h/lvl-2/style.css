@@ -1,0 +1,23 @@
+.container {
+  /* TODO 1: Turn this element into a flexbox */
+}
+
+.item1 {
+  /* TODO 2: Item 1 should have an initial size of 500px in the main axis */
+
+  /* TODO 4: Item 1 should expand beyond 500px if the flexbox is large enough */
+
+  /* TODO 6: Item 1 should explicitly shrink at a ratio of 1 if the flexbox makes it be smaller than 500px */
+
+  /* TODO 8: Replace the 3 properties above by one shorthand property that does the same */
+}
+
+.item2 {
+  /* TODO 3: Item 2 should have an initial size of 500px in the main axis */
+
+  /* TODO 5: Item 2 should expand beyond 500px if the flexbox is large enough, and the growth should be 10 times faster than that of item 1 */
+
+  /* TODO 7: If the flexbox makes item 2 be smaller than 500px, then item 2 shoudl shrink 10 times faster than item 1 */
+
+  /* TODO 9: Replace the 3 properties above by one shorthand property that does the same */
+}

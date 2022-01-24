@@ -1,0 +1,16 @@
+.container {
+  height: 300px;
+  /* TODO 1: Turn this element into a flexbox */
+
+  /* TODO 2: Center its children along the main axis */
+
+  /* TODO 3: Center its children along the cross axis, so they no longer stretch */
+}
+
+.item1 {
+  /* TODO 4: Position item 1 all the way to the bottom */
+}
+
+.item3 {
+  /* TODO 4: Position item 3 all the way to the top */
+}

@@ -26,7 +26,7 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - [x] Take screenshot of end result
 - [x] Write READMEs
 - [x] Reread and clean up TODOs
-- [ ] Add completed files to each exercise
+- [x] Add completed files to each exercise
 - [ ] Add further levels to each exercise
 - [ ] Reread and clean up READMEs
 - [ ] Create a PDF with instructions and images
