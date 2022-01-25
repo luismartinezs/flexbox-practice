@@ -22,4 +22,3 @@ Window width smaller than 900 px and larger than 560 px
 Window width smaller than 560px
 
 ![image](../../images/j-3.png)
-

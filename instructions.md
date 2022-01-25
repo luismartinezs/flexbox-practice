@@ -1,23 +1,10 @@
 # Instructions
 
-This is a guided tutorial to learn the basics about using flex box to create layouts
+This is a guided tutorial to learn the basics about using flexbox to create layouts.
 
-The exercises folder contains all exercises, starting from `a` up to `j`
+It assumes some basic knowledge about html and css, but no knowledge about flexbox. It's for beginners.
 
-The `index.html` files import styles from two files:
-
-- `basic.css`: General styles to make things look good, you don't need to change these
-- `style.css`: In each exercise sub folder there is such a file. You will change these files to complete the exercises
-
-## About this tutorial
-
-These way this tutorial is built is a bit different than usual.
-
-Behind it is the idea that to really learn something, repetition is needed. Most tutorials leave repetition up to the student, at most mentioning that practice is important. This tutorial aims to incorporate repetition.
-
-Another idea is that of ever-increasing difficulty. Every exercise has levels of difficulty that progressively hand-hold the student less and less. Students should progress from level 1 to higher levels.
-
-## How to use it
+## How to use this tutorial
 
 1. I highly recommend you use [visual studio code](https://code.visualstudio.com/) to open this folder.
 
@@ -25,7 +12,7 @@ Another idea is that of ever-increasing difficulty. Every exercise has levels of
 
 3. Go to the first exercise, in the folder `exercises/a` and take a look at the `README.md`. There you have information specific to that exercise, and how the answer should look like. You can preview the `README.md` files by right clicking on them and selecting `Open Preview`
 
-4. The go into the `exercises/a/lvl-1`. You'll see an `index.html` that helps you visualize the exercise, and a `style.css` file.
+4. Then go into the `exercises/a/lvl-1`. You'll see an `index.html` that helps you visualize the exercise, and a `style.css` file.
 
 5. To view an exercise in the browser, you can just open the `index.html` file in a browser window. I recommend you install the extension [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). If you do, just right click the `index.html` file and select `Open with Live server`.
 
@@ -36,6 +23,20 @@ Another idea is that of ever-increasing difficulty. Every exercise has levels of
 8. Beyond level 1, you'll be less hand-held. Progress to the top!
 
 9. When you finish with `a`, move to `b`, and so on.
+
+## About this tutorial
+
+The way this tutorial is structured is a bit different than usual.
+
+- It uses repetition to help learning and retention
+- It relies on increasing difficulty, starting from level 1, which is trivial, to the hardest level
+
+## Files
+
+The `index.html` files import styles from two files:
+
+- `basic.css`: General styles to make things look good, you don't need to change these
+- `style.css`: In each exercise sub folder there is such a file. You will change these files to complete the exercises
 
 ## Rules
 

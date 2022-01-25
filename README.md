@@ -29,10 +29,10 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - [x] Add completed files to each exercise
 - [x] Add further levels to each exercise following table above (kinda)
 - [ ] Reread and clean up READMEs
+- [ ] Make repo with TODOs
 - [ ] Create a PDF with instructions and images
 - [ ] Add instructions to use this if it was downloaded as zip
 - [ ] Do video following steps
-- [ ] Make repo with TODOs
 - [ ] Publish video with link to repo
 - [ ] Design merc (tees)
 
