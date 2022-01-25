@@ -1,0 +1,13 @@
+/* TODO 1: Make the layout look like the result */
+
+.container {
+  font-size: 2rem;
+}
+
+@media all and (max-width: 900px) {
+
+}
+
+@media all and (max-width: 560px) {
+
+}
