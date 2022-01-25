@@ -1,0 +1,11 @@
+.container {
+  /* TODO 1: Turn this element into a flexbox */
+}
+
+.item1 {
+  /* TODO 2: Item 1 should have an initial size of 500px, and expand */
+}
+
+.item2 {
+  /* TODO 3: Item 2 should have the same initial size than item 1, but expand and shink 10 times faster than item 1 */
+}
