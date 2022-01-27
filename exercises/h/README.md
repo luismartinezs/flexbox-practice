@@ -9,14 +9,16 @@ In this exercise you'll learn a whole lot more about the flex property:
 
 Result:
 
+![image](../../assets/h.gif)
+
 Wide window (> 1000px wide):
 
-![image](../../images/h-1.png)
+![image](../../assets/h-1.png)
 
 Medium window (about 1000 px wide):
 
-![image](../../images/h-2.png)
+![image](../../assets/h-2.png)
 
 Narrow window (< 1000px wide):
 
-![image](../../images/h-3.png)
+![image](../../assets/h-3.png)

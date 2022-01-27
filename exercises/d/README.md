@@ -6,4 +6,4 @@ In this exercise you'll use the flex property again to expand multiple flex chil
 
 Result:
 
-![image](../../images/d.png)
+![image](../../assets/d.png)

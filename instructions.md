@@ -2,7 +2,7 @@
 
 This is a guided tutorial to learn the basics about using flexbox to create layouts.
 
-It assumes some basic knowledge about html and css, but no knowledge about flexbox. It's for beginners.
+It assumes some basic knowledge about html and css, but no knowledge about flexbox. It's oriented to beginners.
 
 ## How to use this tutorial
 

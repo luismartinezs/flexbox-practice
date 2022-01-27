@@ -10,4 +10,4 @@ In this exercise you'll learn about:
 
 Result:
 
-![image](../../images/e.png)
+![image](../../assets/e.png)

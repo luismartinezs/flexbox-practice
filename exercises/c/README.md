@@ -6,4 +6,4 @@ In this exercise you'll make one flex child expand to fill all the available spa
 
 Result:
 
-![image](../../images/c.png)
+![image](../../assets/c.png)

@@ -6,4 +6,4 @@ In this exercise you'll learn about how to change the order of the flex children
 
 Result:
 
-![image](../../images/i.png)
+![image](../../assets/i.png)

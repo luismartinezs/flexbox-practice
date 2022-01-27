@@ -11,14 +11,16 @@ In this exercise you'll create a responsive layout for a list of items.
 
 Result:
 
+![image](../../assets/j.gif)
+
 Window width larger than 900px
 
-![image](../../images/j-1.png)
+![image](../../assets/j-1.png)
 
 Window width smaller than 900 px and larger than 560 px
 
-![image](../../images/j-2.png)
+![image](../../assets/j-2.png)
 
 Window width smaller than 560px
 
-![image](../../images/j-3.png)
+![image](../../assets/j-3.png)

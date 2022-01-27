@@ -6,10 +6,12 @@ In this exercise you'll learn about making flex children wrap to the next row wi
 
 Result:
 
+![image](../../assets/g.gif)
+
 Wide window:
 
-![image](../../images/g-1.png)
+![image](../../assets/g-1.png)
 
 Narrow window:
 
-![image](../../images/g-2.png)
+![image](../../assets/g-2.png)

@@ -6,4 +6,4 @@ In this exercise you'll learn how to turn an element into a flex box with the di
 
 Result:
 
-![image](../../images/a.png)
+![image](../../assets/a.png)

@@ -6,4 +6,4 @@ In this exercise you'll learn to position elements horizontally, using margin pr
 
 Result:
 
-![image](../../images/b.png)
+![image](../../assets/b.png)
