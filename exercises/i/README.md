@@ -1,6 +1,6 @@
 # Exercise I
 
-Difficulty: 1
+Difficulty: ⭐
 
 In this exercise you'll learn about how to change the order of the flex children with the `order` property
 

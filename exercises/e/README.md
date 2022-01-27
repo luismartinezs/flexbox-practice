@@ -1,6 +1,6 @@
 # Exercise E
 
-Difficulty: 1
+Difficulty: ⭐
 
 In this exercise you'll learn about:
 

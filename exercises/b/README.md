@@ -1,6 +1,6 @@
 # Exercise B
 
-Difficulty: 1
+Difficulty: ⭐
 
 In this exercise you'll learn to position elements horizontally, using margin properties to add spacing in between flexbox children.
 

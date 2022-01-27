@@ -1,6 +1,6 @@
 # Exercise C
 
-Difficulty: 1
+Difficulty: ⭐
 
 In this exercise you'll make one flex child expand to fill all the available space with the flex property.
 

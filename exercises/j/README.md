@@ -1,6 +1,6 @@
 # Exercise J
 
-Difficulty: 2
+Difficulty: ⭐⭐
 
 In this exercise you'll create a responsive layout for a list of items.
 

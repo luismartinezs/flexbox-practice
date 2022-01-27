@@ -1,6 +1,6 @@
 # Exercise H
 
-Difficulty: 2
+Difficulty: ⭐⭐
 
 In this exercise you'll learn a whole lot more about the flex property:
 

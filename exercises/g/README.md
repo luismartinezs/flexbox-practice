@@ -1,6 +1,6 @@
 # Exercise G
 
-Difficulty: 1
+Difficulty: ⭐
 
 In this exercise you'll learn about making flex children wrap to the next row with the `flex-wrap` property, rather than overflow outside the flexbox.
 

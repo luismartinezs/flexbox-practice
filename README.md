@@ -39,7 +39,7 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 
 ## Exercises
 
-### Difficulty: 1
+### Difficulty: ⭐
 
 - A: position along main axis (1)
   - Justify content to give a positioning to all elements simultaneously
@@ -64,7 +64,7 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - H: Order items
   - Set order of elements
 
-### Difficulty: 2
+### Difficulty: ⭐⭐
 
 - I: responsive list of items
   - A typical example of responsive list of items, for small screens there's no space to fit all items in the same line
