@@ -4,6 +4,6 @@
   /* TODO 2: When elements don't fit because the window is too narrow, they should move to the next row */
 }
 
-.container > div {
+.item1, .item2, .item3 {
   min-width: 300px;
 }

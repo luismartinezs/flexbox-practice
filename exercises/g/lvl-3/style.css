@@ -1,5 +1,5 @@
 /* TODO 1: Make the layout look like the result */
 
-.container > div {
+.item1, .item2, .item3 {
   min-width: 300px;
 }

@@ -14,6 +14,7 @@
 }
 
 @media all and (max-width: 900px) {
+  /* The thing above is a media query. It tells the browser to apply the below styles only for windows with width less than 900px (including 900px) */
   .container {
     /* TODO 3: For widths smaller than 900px, the items look too cramped so we are going to distribute them across rows.
 
@@ -22,7 +23,7 @@
     I've already written the media query for you
     */
   }
-  .container > li {
+  .item1, .item2, .item3, .item4 {
     /* TODO 4: For narrow screens, the layout doesn't look good anymore.
 
     Let's have all children have the same size, and have two in the first row and two in the second row.
@@ -41,7 +42,8 @@
 }
 
 @media all and (max-width: 560px) {
-  .container > li {
+  /* Another media query, telling the browser to apply these styles only for screens no wider than 560px */
+  .item1, .item2, .item3, .item4 {
     /* TODO 5: For very narrow screens (< 560px) the layout looks cramped again. Let's fix it. I wrote the media query for you.
 
     Let's have one element per row.

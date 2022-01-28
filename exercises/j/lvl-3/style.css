@@ -12,14 +12,14 @@
   .container {
 
   }
-  .container > li {
+  .item1, .item2, .item3, .item4 {
 
   }
 }
 
 @media all and (max-width: 560px) {
   /* TODO 4: For very narrow windows (< 560px), there is one item per row, and item 3 shows up last */
-  .container > li {
+  .item1, .item2, .item3, .item4 {
 
   }
   .item3 {

@@ -3,7 +3,15 @@
 
   Turn this element into a flexbox with "display: flex;"
 
-  Children will be displayed in a row, that's because by default flexboxes are displayed in rows.
+  Now save this file, and take a look at the browser window (you might need to refresh the browser).
+
+  Get used to do this. After a change, save, and see what that change does.
+
+  So, what happened?
+
+  Children are displayed in a row. That's because by default the children of flexboxes are displayed in rows.
+
+  I'd tell you to write a note about this in your inventory, but it's already there!
   */
 
   /* TODO 2: use the justify-content property to center its children: "justify-content: center;"
@@ -17,6 +25,8 @@
     space-between (position children leaving space in between them)
 
   The main axis is the horizontal axis, by default.
+
+  Write one short sentence in your inventory about justify-content and the main axis.
 
   Read more about justify-content: https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
 

@@ -46,6 +46,22 @@
 
   Which would mean that the child doesn't grow beyond its size (flex-grow: 0), it shrinks at a ratio of 1 (flex-shink: 1), and its size is as large as its content (flex-basis: auto).
 
+  I hear you.
+
+  We've used "flex: 1;" before, and you're wondering about that, if we just saw that flex takes 3 values.
+
+  If flex takes one value without any units, then by default it understands we mean flex-grow.
+
+  So, this:
+
+  flex: 1;
+
+  Is the same as this:
+
+  flex-grow: 1;
+
+  Don't worry too much about it, you can always google it when you need it
+
   Replace here flex-basis, flex-grow, flex-shrink and flex-basis by the shorthand "flex: 1 1 500px;"
   */
 }

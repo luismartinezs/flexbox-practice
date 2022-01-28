@@ -3,6 +3,6 @@
   flex-wrap: wrap;
 }
 
-.container > div {
+.item1, .item2, .item3 {
   min-width: 300px;
 }
