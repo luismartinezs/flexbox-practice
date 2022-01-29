@@ -28,8 +28,9 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - [x] Reread and clean up TODOs
 - [x] Add completed files to each exercise
 - [x] Add further levels to each exercise following table above (kinda)
+- [ ] Think of a name
 - [ ] Reread and clean up READMEs
-- [ ] Make repo with TODOs
+- [x] Make repo with TODOs
 - [ ] Create a PDF with instructions and images
 - [ ] Add instructions to use this if it was downloaded as zip
 - [ ] Do video following steps

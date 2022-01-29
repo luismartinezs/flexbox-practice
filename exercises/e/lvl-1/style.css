@@ -11,7 +11,7 @@
 
   You can learn more about the cross axis here: https://developer.mozilla.org/en-US/docs/Glossary/Cross_Axis
 
-  You could add a note about the cross-axis in your inventory
+  You could add a note about the cross-axis in your cheatsheet
   */
 
   /* TODO 2: Center the children with "justify-content: center;"
@@ -26,7 +26,7 @@
 
   If we set align-items to center, flex-start or flex-end, the items are no longer stretched and we can arrange them along the cross axis
 
-  Add align-items to your inventory
+  Add align-items to your cheatsheet
 
   More about the aling-items property: https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
   */

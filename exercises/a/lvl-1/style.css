@@ -11,7 +11,7 @@
 
   Children are displayed in a row. That's because by default the children of flexboxes are displayed in rows.
 
-  I'd tell you to write a note about this in your inventory, but it's already there!
+  I'd tell you to write a note about this in your cheatsheet, but it's already there!
   */
 
   /* TODO 2: use the justify-content property to center its children: "justify-content: center;"
@@ -26,7 +26,7 @@
 
   The main axis is the horizontal axis, by default.
 
-  Write one short sentence in your inventory about justify-content and the main axis.
+  Write one short sentence in your cheatsheet about justify-content and the main axis.
 
   Read more about justify-content: https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
 
