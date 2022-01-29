@@ -31,7 +31,7 @@ Reference: https://www.youtube.com/watch?v=-Wlt8NRtOpo
 - [ ] Think of a name
 - [ ] Reread and clean up READMEs
 - [x] Make repo with TODOs
-- [ ] Create a PDF with instructions and images
+- [x] Create a PDF with instructions and images
 - [ ] Add instructions to use this if it was downloaded as zip
 - [ ] Do video following steps
 - [ ] Publish video with link to repo
